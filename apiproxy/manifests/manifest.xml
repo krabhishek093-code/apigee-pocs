@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AM-Set-Custom-Error" version="SHA-512:62ddab6dd8e67e7cba4a6bffe53ecf38688315a0fde9b8fe04654f2feb161c72ad7127c522b757a9a729077d45bc55e0a052b26976bc39207dee0f659f856383"/>
+        <VersionInfo resourceName="JSON-to-XML-1" version="SHA-512:b404f3275d2be6a0f690b578abe0cabf161ff8f6f1c710c6a3e1d8e64c2f5dd62f816bd17ad16f9edd2f5e557bb0feecd2b61a8f53254714a2289b07876bce74"/>
+        <VersionInfo resourceName="Quota-1" version="SHA-512:ccb939e0d9c36c4ee645f5766fd8f4f8fdb498bf12b4adc200ebeb318e7361627f085f652299400de563735f6963a953aa8e4a6b4a231da5f0a7718aaa465b30"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:c8e0f0625484b1d7119c621c12dc73c9dfab139e33fb0eba752d5892a894ae485d495ca99c8e7036c9c8a47f73f6d65a544517876b8c20fc535b3add65981fb5"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:06e656c0deb63419f4f01e123bc6729062406e33c4f3cc9f7efd64421eb8686b60959dd0272e8edf9cea2c8a9e7240f16a11848f4f1f7ce6d3c1220451f61d0d"/>
+    </TargetEndpoints>
+</Manifest>

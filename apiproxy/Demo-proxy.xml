@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="Demo-proxy">
+    <Basepaths>/demo-proxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1639726116907</CreatedAt>
+    <CreatedBy>abhishek.kumar17@publicissapient.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Demo-proxy</DisplayName>
+    <LastModifiedAt>1639727144359</LastModifiedAt>
+    <LastModifiedBy>abhishek.kumar17@publicissapient.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:7c9bebe4d269976f5662b58705e1add7b03196e88499c4aeead544b18c8a6675b8abd454a1fc356f92b0588b709b8420a0d8da093c5d5bcabd795cfa0d568feb:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>AM-Set-Custom-Error</Policy>
+        <Policy>JSON-to-XML-1</Policy>
+        <Policy>Quota-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
